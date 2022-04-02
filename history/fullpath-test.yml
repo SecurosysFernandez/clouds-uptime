@@ -1,7 +1,7 @@
-url: https://e2ffe635-191a-4f00-baeb-e5b0267c0b6e.securosys365.com/0d70df6d-f730-41fa-9cb4-25f2b3fcf94b
+url: $SECRET_DKE_KEY
 status: up
 code: 200
-responseTime: 4315
-lastUpdated: 2022-04-02T15:30:43.779Z
+responseTime: 2159
+lastUpdated: 2022-04-02T15:43:02.363Z
 startTime: Sat Apr 02 2022 15:30:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
