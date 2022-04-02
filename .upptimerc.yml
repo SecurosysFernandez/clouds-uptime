@@ -5,87 +5,60 @@ repo: clouds-uptime # The name of this repository
 sites:
   - name: Securosys365 - DKE Cockpit
     url: $SECRET_PAGE
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Double Key Encryption App
     url: $SECRET_DKE_APP
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
-  - name: Fullpath test
+  - name: Double Key Encryption Fullpath
     url: $SECRET_DKE_KEY
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds DE - JCE
     check: "tcp-ping"
     url: $SECRET_DE_API
     port: 2300
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds DE - PKCS11
     check: "tcp-ping"
     url: $SECRET_DE_API
     port: 2310
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds DE - CNG
     check: "tcp-ping"
     url: $SECRET_DE_API
     port: 2320
-    assignees: # Users to assign downtime issues (optional)
   - name: Clouds CH-A - JCE
     check: "tcp-ping"
     url: $SECRET_A_API
     port: 2300
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds CH-A - PKCS11
     check: "tcp-ping"
     url: $SECRET_A_API
     port: 2310
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds CH-A - CNG
     check: "tcp-ping"
     url: $SECRET_A_API
     port: 2320
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds CH-B - JCE
     check: "tcp-ping"
     url: $SECRET_B_API
     port: 2300
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds CH-B - PKCS11
     check: "tcp-ping"
     url: $SECRET_A_API
     port: 2310
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds CH-B - CNG
     check: "tcp-ping"
     url: $SECRET_B_API
     port: 2320
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds US - JCE
     check: "tcp-ping"
     url: $SECRET_US_API
     port: 2300
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds US - PKCS11
     check: "tcp-ping"
     url: $SECRET_US_API
     port: 2310
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
   - name: Clouds US - CNG
     check: "tcp-ping"
     url: $SECRET_US_API
     port: 2320
-    assignees: # Users to assign downtime issues (optional)
-      - SecurosysFernandez
+assignees: # Users to assign downtime issues (optional)
+  - SecurosysFernandez
 
 
 status-website:
