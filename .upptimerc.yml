@@ -5,10 +5,22 @@ repo: clouds-uptime # The name of this repository
 sites:
   - name: Securosys365 - DKE Cockpit
     url: $SECRET_PAGE
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
   - name: Double Key Encryption App
     url: $SECRET_DKE_APP
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
   - name: Fullpath test
     url: $SECRET_DKE_KEY
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds
+    check: "tcp-ping"
+    url: $SECRET_API
+    port: 2310
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
 
 
 status-website:
@@ -20,11 +32,11 @@ status-website:
   name: Clouds - Uptime
   introTitle: "**Clouds Upptime** is the uptime tracker for Double Key Encryption Clouds-Service."
   introMessage: This is a sample status page which uses **real-time**
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  #navbar:
+  #  - title: Status
+  #    href: /
+  #  - title: GitHub
+  #    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
