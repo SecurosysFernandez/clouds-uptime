@@ -93,7 +93,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /clouds-uptime
-  logoUrl: https://github.com/SecurosysFernandez/clouds-uptime/blob/master/Clouds.png
+  logoUrl: https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Clouds.png
   name: Clouds Service - RealTime uptime
   introTitle: "**Clouds Upptime** is the uptime tracker for Clouds-Service."
   introMessage: 
