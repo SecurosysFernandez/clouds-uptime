@@ -15,10 +15,75 @@ sites:
     url: $SECRET_DKE_KEY
     assignees: # Users to assign downtime issues (optional)
       - SecurosysFernandez
-  - name: Clouds
+  - name: Clouds DE - JCE
     check: "tcp-ping"
-    url: $SECRET_API
+    url: $SECRET_DE_API
+    port: 2300
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds DE - PKCS11
+    check: "tcp-ping"
+    url: $SECRET_DE_API
     port: 2310
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds DE - CNG
+    check: "tcp-ping"
+    url: $SECRET_DE_API
+    port: 2320
+    assignees: # Users to assign downtime issues (optional)
+  - name: Clouds CH-A - JCE
+    check: "tcp-ping"
+    url: $SECRET_A_API
+    port: 2300
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds CH-A - PKCS11
+    check: "tcp-ping"
+    url: $SECRET_A_API
+    port: 2310
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds CH-A - CNG
+    check: "tcp-ping"
+    url: $SECRET_A_API
+    port: 2320
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds CH-B - JCE
+    check: "tcp-ping"
+    url: $SECRET_B_API
+    port: 2300
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds CH-B - PKCS11
+    check: "tcp-ping"
+    url: $SECRET_A_API
+    port: 2310
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds CH-B - CNG
+    check: "tcp-ping"
+    url: $SECRET_B_API
+    port: 2320
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds US - JCE
+    check: "tcp-ping"
+    url: $SECRET_US_API
+    port: 2300
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds US - PKCS11
+    check: "tcp-ping"
+    url: $SECRET_US_API
+    port: 2310
+    assignees: # Users to assign downtime issues (optional)
+      - SecurosysFernandez
+  - name: Clouds US - CNG
+    check: "tcp-ping"
+    url: $SECRET_US_API
+    port: 2320
     assignees: # Users to assign downtime issues (optional)
       - SecurosysFernandez
 
@@ -28,7 +93,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /clouds-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/SecurosysFernandez/clouds-uptime/Clouds.png
   name: Clouds - Uptime
   introTitle: "**Clouds Upptime** is the uptime tracker for Double Key Encryption Clouds-Service."
   introMessage: This is a sample status page which uses **real-time**
