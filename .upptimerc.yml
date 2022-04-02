@@ -12,9 +12,9 @@ sites:
   - name: Transaction Security Broker - Developer
     url: $SECRET_DEV_KEY
   - name: Transaction Security Broker - Sandbox
-    url: $SECRET_SBX-REST-API_KEY
+    url: $SECRET_SBX_REST_API_KEY
   - name: Transaction Security Broker - Economy
-    url: $SECRET_REST-API_KEY
+    url: $SECRET_REST_API_KEY
   - name: Clouds DE - JCE
     check: "tcp-ping"
     url: $SECRET_DE_API
