@@ -4,11 +4,11 @@ repo: clouds-uptime # The name of this repository
 
 sites:
   - name: Securosys365 - DKE Cockpit
-    url: https://cockpit.securosys365.com/
+    url: $SECRET_PAGE
   - name: Double Key Encryption App
-    url: https://e2ffe635-191a-4f00-baeb-e5b0267c0b6e.securosys365.com/
+    url: $SECRET_DKE_APP
   - name: Fullpath test
-    url: https://e2ffe635-191a-4f00-baeb-e5b0267c0b6e.securosys365.com/0d70df6d-f730-41fa-9cb4-25f2b3fcf94b
+    url: $SECRET_DKE_KEY
 
 
 status-website:
