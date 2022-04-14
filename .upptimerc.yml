@@ -11,58 +11,36 @@ sites:
     url: $SECRET_DKE_KEY
   - name: Transaction Security Broker - Developer
     url: $SECRET_DEV_KEY
+  - name: Transaction Security Broker - Developer Program
+    url: https://primusdev.cloudshsm.com/v1/licenseInfo
+    icon: https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Transaction_Security_Broker.png
+    headers:
+      - "accept: application/json"
+      - "Authorization: Bearer $TSB_PRIMUSDEV_TOKEN"
+    expectedStatusCodes:
+      - 200
   - name: Transaction Security Broker - Sandbox
     url: $SECRET_SBX_REST_API_KEY
+    icon: https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Transaction_Security_Broker.png
   - name: Transaction Security Broker - Economy
     url: $SECRET_REST_API_KEY
-  - name: Clouds DE - JCE
+    icon: https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Transaction_Security_Broker.png
+  - name: CloudsHSM - Europe
     check: "tcp-ping"
     url: $SECRET_DE_API
     port: 2300
-  - name: Clouds DE - PKCS11
-    check: "tcp-ping"
-    url: $SECRET_DE_API
-    port: 2310
-  - name: Clouds DE - CNG
-    check: "tcp-ping"
-    url: $SECRET_DE_API
-    port: 2320
-  - name: Clouds CH-A - JCE
-    check: "tcp-ping"
-    url: $SECRET_A_API
-    port: 2300
-  - name: Clouds CH-A - PKCS11
-    check: "tcp-ping"
-    url: $SECRET_A_API
-    port: 2310
-  - name: Clouds CH-A - CNG
-    check: "tcp-ping"
-    url: $SECRET_A_API
-    port: 2320
-  - name: Clouds CH-B - JCE
-    check: "tcp-ping"
-    url: $SECRET_B_API
-    port: 2300
-  - name: Clouds CH-B - PKCS11
-    check: "tcp-ping"
-    url: $SECRET_A_API
-    port: 2310
-  - name: Clouds CH-B - CNG
-    check: "tcp-ping"
-    url: $SECRET_B_API
-    port: 2320
-  - name: Clouds US - JCE
+  - name: CloudsHSM - America
     check: "tcp-ping"
     url: $SECRET_US_API
     port: 2300
-  - name: Clouds US - PKCS11
+  - name: CloudsHSM - Asia
     check: "tcp-ping"
     url: $SECRET_US_API
-    port: 2310
-  - name: Clouds US - CNG
+    port: 2300
+  - name: CloudsHSM - Sitzerland
     check: "tcp-ping"
-    url: $SECRET_US_API
-    port: 2320
+    url: $SECRET_CH_API
+    port: 2300
 assignees: # Users to assign downtime issues (optional)
   - SecurosysFernandez
 
@@ -76,11 +54,3 @@ status-website:
   name: Clouds Service - RealTime uptime
   introTitle: "**Clouds Upptime** is the uptime tracker for Clouds-Service."
   introMessage: 
-  #navbar:
-  #  - title: Status
-  #    href: /
-  #  - title: GitHub
-  #    href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
