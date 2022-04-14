@@ -42,19 +42,19 @@
     "url": "$SECRET_DKE_KEY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "double-key-encryption-fullpath",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1263,
-    "timeDay": 960,
-    "timeWeek": 1285,
-    "timeMonth": 1263,
-    "timeYear": 1263,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1417,
+    "timeDay": 2140,
+    "timeWeek": 1577,
+    "timeMonth": 1417,
+    "timeYear": 1417,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 7
     }
   },
   {
