@@ -1,7 +1,7 @@
 url: $SECRET_DKE_KEY
-status: down
-code: 500
-responseTime: 505
-lastUpdated: 2022-04-16T07:46:51.312Z
+status: up
+code: 200
+responseTime: 3103
+lastUpdated: 2022-04-16T07:53:27.797Z
 startTime: Sat Apr 02 2022 17:47:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
