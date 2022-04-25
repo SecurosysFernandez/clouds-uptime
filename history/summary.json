@@ -80,18 +80,20 @@
     "url": "https://primusdev.cloudshsm.com/v1/licenseInfo",
     "icon": "https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Transaction_Security_Broker.png",
     "slug": "transaction-security-broker-developer-program",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 378,
-    "timeWeek": 269,
-    "timeMonth": 301,
-    "timeYear": 301,
-    "dailyMinutesDown": {}
+    "time": 322,
+    "timeDay": 500,
+    "timeWeek": 304,
+    "timeMonth": 322,
+    "timeYear": 322,
+    "dailyMinutesDown": {
+      "2022-04-25": 0
+    }
   },
   {
     "name": "Transaction Security Broker - Sandbox",
