@@ -42,18 +42,20 @@
     "url": "$SECRET_DKE_KEY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "double-key-encryption-fullpath",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1349,
-    "timeDay": 1227,
-    "timeWeek": 1103,
-    "timeMonth": 1349,
-    "timeYear": 1349,
-    "dailyMinutesDown": {}
+    "time": 1326,
+    "timeDay": 832,
+    "timeWeek": 1020,
+    "timeMonth": 1326,
+    "timeYear": 1326,
+    "dailyMinutesDown": {
+      "2022-04-28": 0
+    }
   },
   {
     "name": "Transaction Security Broker - Developer",
