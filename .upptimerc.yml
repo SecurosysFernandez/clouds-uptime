@@ -16,7 +16,7 @@ sites:
       - "accept: application/json"
       - "Authorization: Bearer $TSB_PRIMUSDEV_TOKEN"
     expectedStatusCodes:
-      - 200
+      - 500
   - name: Transaction Security Broker - Sandbox
     url: $SECRET_SBX_REST_API_KEY
     icon: https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png
