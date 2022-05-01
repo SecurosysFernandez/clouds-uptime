@@ -33,7 +33,7 @@ sites:
     port: 2300
   - name: CloudsHSM - Asia
     check: "tcp-ping"
-    url: $SECRET_US_API
+    url: $SECRET_SG_API
     port: 2300
   - name: CloudsHSM - Sitzerland
     check: "tcp-ping"
