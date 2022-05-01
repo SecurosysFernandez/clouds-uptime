@@ -9,11 +9,9 @@ sites:
     url: $SECRET_DKE_APP
   - name: Double Key Encryption Fullpath
     url: $SECRET_DKE_KEY
-  - name: Transaction Security Broker - Developer
-    url: $SECRET_DEV_KEY
   - name: Transaction Security Broker - Developer Program
     url: https://primusdev.cloudshsm.com/v1/licenseInfo
-    icon: https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Transaction_Security_Broker.png
+    icon: https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png
     headers:
       - "accept: application/json"
       - "Authorization: Bearer $TSB_PRIMUSDEV_TOKEN"
@@ -21,10 +19,10 @@ sites:
       - 200
   - name: Transaction Security Broker - Sandbox
     url: $SECRET_SBX_REST_API_KEY
-    icon: https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Transaction_Security_Broker.png
+    icon: https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png
   - name: Transaction Security Broker - Economy
     url: $SECRET_REST_API_KEY
-    icon: https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Transaction_Security_Broker.png
+    icon: https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png
   - name: CloudsHSM - Europe
     check: "tcp-ping"
     url: $SECRET_DE_API
