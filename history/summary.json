@@ -161,9 +161,9 @@
     "url": "$SECRET_SG_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clouds-hsm-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,16 +172,18 @@
     "timeWeek": 0,
     "timeMonth": 15,
     "timeYear": 19,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "CloudsHSM - Sitzerland",
     "url": "$SECRET_CH_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clouds-hsm-sitzerland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,6 +192,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
