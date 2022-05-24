@@ -1,7 +1,7 @@
 url: https://primusdev.cloudshsm.com/v1/licenseInfo
-status: up
-code: 200
-responseTime: 5401
-lastUpdated: 2022-05-24T09:59:08.310Z
+status: down
+code: 503
+responseTime: 678
+lastUpdated: 2022-05-24T11:25:07.335Z
 startTime: Thu Apr 14 2022 16:30:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
