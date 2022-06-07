@@ -30,7 +30,6 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__disable_verify_peer: true
   - name: CloudsHSM - America    
     url: $SECRET_US_API
     headers:
@@ -38,7 +37,6 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__disable_verify_peer: true
   - name: CloudsHSM - Asia    
     url: $SECRET_SG_API
     headers:
@@ -46,7 +44,6 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__disable_verify_peer: true
   - name: CloudsHSM - Sitzerland    
     url: $SECRET_CH_API
     headers:
@@ -54,7 +51,6 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__disable_verify_peer: true
 assignees: # Users to assign downtime issues (optional)
   - Daught
 
