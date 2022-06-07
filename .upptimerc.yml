@@ -25,6 +25,7 @@ sites:
     icon: https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png
   - name: CloudsHSM - Europe    
     url: $SECRET_DE_API    
+    __dangerous__disable_verify_host: true
     headers:
       - "accept: application/json"
       - "Authorization: Bearer $CLUSTERS_SECRET"
@@ -32,6 +33,7 @@ sites:
       - 200
   - name: CloudsHSM - America    
     url: $SECRET_US_API
+    __dangerous__disable_verify_host: true
     headers:
       - "accept: application/json"
       - "Authorization: Bearer $CLUSTERS_SECRET"
@@ -39,6 +41,7 @@ sites:
       - 200
   - name: CloudsHSM - Asia    
     url: $SECRET_SG_API
+    __dangerous__disable_verify_host: true
     headers:
       - "accept: application/json"
       - "Authorization: Bearer $CLUSTERS_SECRET"
@@ -46,6 +49,7 @@ sites:
       - 200
   - name: CloudsHSM - Sitzerland    
     url: $SECRET_CH_API
+    __dangerous__disable_verify_host: true
     headers:
       - "accept: application/json"
       - "Authorization: Bearer $CLUSTERS_SECRET"
