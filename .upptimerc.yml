@@ -23,7 +23,7 @@ sites:
   - name: Transaction Security Broker - Economy
     url: $SECRET_REST_API_KEY
     icon: https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png
-  - name: CloudsHSM - Europe    
+  - name: CloudsHSM - Europe (Cluster)    
     url: $SECRET_DE_API    
     __dangerous__insecure: true
     headers:
@@ -31,7 +31,7 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-  - name: CloudsHSM - America    
+  - name: CloudsHSM - America (Cluster)  
     url: $SECRET_US_API
     __dangerous__insecure: true
     headers:
@@ -39,7 +39,7 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-  - name: CloudsHSM - Asia    
+  - name: CloudsHSM - Asia  
     url: $SECRET_SG_API
     __dangerous__insecure: true
     headers:
@@ -47,7 +47,7 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-  - name: CloudsHSM - Sitzerland    
+  - name: CloudsHSM - Sitzerland (Cluster)   
     url: $SECRET_CH_API
     __dangerous__insecure: true
     headers:
