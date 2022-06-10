@@ -9,6 +9,10 @@ sites:
     url: $SECRET_DKE_APP
   - name: Double Key Encryption Fullpath
     url: $SECRET_DKE_KEY
+  name: Transaction Security Broker - Demo
+    url: https://tsb-demo.cloudshsm.com/v1/licenseInfo
+    expectedStatusCodes:
+      - 200
   - name: Transaction Security Broker - Developer Program
     url: https://primusdev.cloudshsm.com/v1/licenseInfo
     icon: https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png
