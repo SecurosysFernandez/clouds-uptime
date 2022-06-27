@@ -43,7 +43,7 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-  - name: CloudsHSM - Asia  
+  - name: CloudsHSM - Asia Pacific  
     url: $SECRET_SG_API
     __dangerous__insecure: true
     headers:
