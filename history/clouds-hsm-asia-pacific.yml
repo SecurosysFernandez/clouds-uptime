@@ -1,7 +1,7 @@
 url: $SECRET_SG_API
-status: down
-code: 204
-responseTime: 136
-lastUpdated: 2022-07-06T09:33:21.987Z
+status: up
+code: 200
+responseTime: 3811
+lastUpdated: 2022-07-06T09:44:47.706Z
 startTime: Mon Jun 27 2022 11:37:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
