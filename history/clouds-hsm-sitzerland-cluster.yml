@@ -1,7 +1,7 @@
 url: $SECRET_CH_API
-status: up
-code: 200
-responseTime: 1260
-lastUpdated: 2022-07-15T23:22:04.594Z
+status: down
+code: 204
+responseTime: 115
+lastUpdated: 2022-07-16T17:47:48.044Z
 startTime: Tue Jun 07 2022 19:21:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
