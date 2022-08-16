@@ -5,9 +5,9 @@ repo: clouds-uptime # The name of this repository
 sites:
   - name: Securosys365 - DKE Cockpit
     url: $SECRET_PAGE
-  - name: Double Key Encryption App
+  - name: Double Key Encryption - Service
     url: $SECRET_DKE_APP
-  - name: Double Key Encryption Fullpath
+  - name: Double Key Encryption - Fullpath
     url: $SECRET_DKE_KEY
   - name: Transaction Security Broker - Demo
     url: https://tsb-demo.cloudshsm.com/v1/licenseInfo
