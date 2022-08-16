@@ -68,6 +68,6 @@ status-website:
   cname: uptime.cloudshsm.com
   #baseUrl: /clouds-uptime
   logoUrl: https://raw.githubusercontent.com/SecurosysFernandez/clouds-uptime/master/Clouds.png
-  name: Clouds Service - RealTime uptime
-  introTitle: "**Clouds Upptime** is the uptime tracker for Clouds-Service."
+  name: CloudsHSM Uptime
+  #introTitle: "**CloudsHSM Upptime** is the life uptime tracker for CloudsHSM-Service."
   introMessage: 
