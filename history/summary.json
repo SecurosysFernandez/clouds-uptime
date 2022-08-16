@@ -15,9 +15,7 @@
     "timeWeek": 733,
     "timeMonth": 739,
     "timeYear": 714,
-    "dailyMinutesDown": {
-      "2022-04-02": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Double Key Encryption - Service",
@@ -43,26 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "double-key-encryption-fullpath",
     "status": "up",
-    "uptime": "95.42%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "12.67%",
-    "uptimeMonth": "79.90%",
-    "uptimeYear": "95.42%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 1288,
     "timeDay": 1454,
     "timeWeek": 1381,
     "timeMonth": 1218,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2022-08-16": 872,
-      "2022-08-15": 1440,
-      "2022-08-14": 1440,
-      "2022-08-13": 1440,
-      "2022-08-12": 1440,
-      "2022-08-11": 1440,
-      "2022-08-10": 731,
-      "2022-06-14": 133,
-      "2022-05-15": 30
+      "2022-06-14": 133
     }
   },
   {
@@ -71,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/tsb-demo.cloudshsm.com",
     "slug": "transaction-security-broker-demo",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "100.00%",
     "time": 855,
     "timeDay": 646,
     "timeWeek": 779,
     "timeMonth": 1095,
     "timeYear": 855,
-    "dailyMinutesDown": {
-      "2022-06-22": 137
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Transaction Security Broker - Developer Program",
@@ -91,29 +79,18 @@
     "icon": "https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png",
     "slug": "transaction-security-broker-developer-program",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.97%",
     "time": 934,
     "timeDay": 685,
     "timeWeek": 728,
     "timeMonth": 717,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2022-06-22": 174,
-      "2022-06-20": 51,
-      "2022-06-08": 82,
-      "2022-06-07": 188,
-      "2022-06-06": 86,
-      "2022-06-03": 21,
-      "2022-05-24": 252,
-      "2022-05-19": 134,
-      "2022-05-03": 59,
-      "2022-05-01": 52,
-      "2022-04-29": 28,
-      "2022-04-25": 27
+      "2022-05-03": 59
     }
   },
   {
@@ -122,28 +99,21 @@
     "icon": "https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png",
     "slug": "transaction-security-broker-sandbox",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "98.94%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.60%",
     "time": 647,
     "timeDay": 573,
     "timeWeek": 659,
     "timeMonth": 624,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2022-08-11": 88,
       "2022-06-27": 408,
       "2022-06-26": 181,
-      "2022-06-25": 740,
-      "2022-06-20": 51,
-      "2022-06-08": 82,
       "2022-06-07": 188,
-      "2022-06-03": 7,
-      "2022-05-24": 154,
-      "2022-05-19": 134,
-      "2022-04-02": 44
+      "2022-06-03": 7
     }
   },
   {
@@ -152,19 +122,17 @@
     "icon": "https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png",
     "slug": "transaction-security-broker-economy",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 579,
     "timeDay": 566,
     "timeWeek": 579,
     "timeMonth": 597,
     "timeYear": 579,
-    "dailyMinutesDown": {
-      "2022-04-02": 44
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CloudsHSM - Europe (Cluster)",
@@ -172,19 +140,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clouds-hsm-europe-cluster",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "100.00%",
     "time": 2277,
     "timeDay": 2091,
     "timeWeek": 2149,
     "timeMonth": 2137,
     "timeYear": 2277,
-    "dailyMinutesDown": {
-      "2022-06-23": 112
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CloudsHSM - America (Cluster)",
@@ -192,19 +158,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clouds-hsm-america-cluster",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.97%",
     "time": 2274,
     "timeDay": 2380,
     "timeWeek": 2386,
     "timeMonth": 2264,
     "timeYear": 2274,
     "dailyMinutesDown": {
-      "2022-07-18": 27,
-      "2022-06-23": 112
+      "2022-07-18": 27
     }
   },
   {
@@ -231,18 +196,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clouds-hsm-sitzerland-cluster",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "100.00%",
     "time": 1358,
     "timeDay": 1443,
     "timeWeek": 1370,
     "timeMonth": 1263,
     "timeYear": 1358,
-    "dailyMinutesDown": {
-      "2022-06-23": 113
-    }
+    "dailyMinutesDown": {}
   }
 ]
