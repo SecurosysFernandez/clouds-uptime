@@ -51,7 +51,7 @@ sites:
       - "Authorization: Bearer $CLUSTERS_SECRET"
     expectedStatusCodes:
       - 200
-  - name: CloudsHSM - Sitzerland (Cluster)   
+  - name: CloudsHSM - Switzerland (Cluster)   
     url: $SECRET_CH_API
     __dangerous__insecure: true
     headers:
