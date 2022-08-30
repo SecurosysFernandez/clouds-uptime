@@ -195,19 +195,19 @@
     "url": "$SECRET_CH_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clouds-hsm-switzerland-cluster",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1374,
-    "timeDay": 1858,
-    "timeWeek": 1420,
-    "timeMonth": 1374,
-    "timeYear": 1374,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1376,
+    "timeDay": 1710,
+    "timeWeek": 1419,
+    "timeMonth": 1376,
+    "timeYear": 1376,
     "dailyMinutesDown": {
-      "2022-08-30": 0
+      "2022-08-30": 35
     }
   }
 ]
