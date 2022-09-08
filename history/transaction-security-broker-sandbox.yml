@@ -1,7 +1,7 @@
 url: $SECRET_SBX_REST_API_KEY
-status: down
-code: 504
-responseTime: 15577
-lastUpdated: 2022-09-08T15:34:09.814Z
+status: up
+code: 200
+responseTime: 701
+lastUpdated: 2022-09-08T15:50:58.359Z
 startTime: Sat Apr 02 2022 18:06:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
