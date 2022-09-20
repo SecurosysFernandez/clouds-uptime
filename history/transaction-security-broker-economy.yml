@@ -1,7 +1,7 @@
 url: $SECRET_REST_API_KEY
 status: up
 code: 200
-responseTime: 602
-lastUpdated: 2022-09-19T23:29:48.180Z
+responseTime: 405
+lastUpdated: 2022-09-20T23:28:11.488Z
 startTime: Sat Apr 02 2022 18:06:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
