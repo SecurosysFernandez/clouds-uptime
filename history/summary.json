@@ -142,9 +142,9 @@
     "url": "$SECRET_DE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-europe-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,16 +153,18 @@
     "timeWeek": 2147,
     "timeMonth": 2119,
     "timeYear": 2209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-22": 0
+    }
   },
   {
     "name": "CloudsHSM - America (Cluster)",
     "url": "$SECRET_US_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-america-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -172,6 +174,7 @@
     "timeMonth": 2439,
     "timeYear": 2338,
     "dailyMinutesDown": {
+      "2022-10-22": 0,
       "2022-07-18": 27
     }
   },
@@ -180,9 +183,9 @@
     "url": "$SECRET_SG_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-asia-pacific",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,16 +194,18 @@
     "timeWeek": 3873,
     "timeMonth": 3868,
     "timeYear": 3732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-22": 0
+    }
   },
   {
     "name": "CloudsHSM - Switzerland (Cluster)",
     "url": "$SECRET_CH_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-switzerland-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -210,6 +215,7 @@
     "timeMonth": 1283,
     "timeYear": 1293,
     "dailyMinutesDown": {
+      "2022-10-22": 0,
       "2022-08-30": 35
     }
   }
