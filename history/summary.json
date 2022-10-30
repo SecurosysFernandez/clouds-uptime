@@ -180,19 +180,19 @@
     "url": "$SECRET_SG_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-asia-pacific",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 3741,
-    "timeDay": 3982,
-    "timeWeek": 3881,
-    "timeMonth": 3848,
-    "timeYear": 3741,
+    "time": 3742,
+    "timeDay": 3896,
+    "timeWeek": 3872,
+    "timeMonth": 3847,
+    "timeYear": 3742,
     "dailyMinutesDown": {
-      "2022-10-30": 0
+      "2022-10-30": 5
     }
   },
   {
