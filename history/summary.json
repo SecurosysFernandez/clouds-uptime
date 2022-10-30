@@ -180,9 +180,9 @@
     "url": "$SECRET_SG_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-asia-pacific",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,7 +191,9 @@
     "timeWeek": 3881,
     "timeMonth": 3848,
     "timeYear": 3741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-30": 0
+    }
   },
   {
     "name": "CloudsHSM - Switzerland (Cluster)",
