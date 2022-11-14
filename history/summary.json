@@ -142,9 +142,9 @@
     "url": "$SECRET_DE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-europe-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +153,9 @@
     "timeWeek": 2105,
     "timeMonth": 2262,
     "timeYear": 2221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-14": 0
+    }
   },
   {
     "name": "CloudsHSM - America (Cluster)",
