@@ -60,11 +60,11 @@
     "url": "https://tsb-demo.cloudshsm.com/v1/licenseInfo",
     "icon": "https://icons.duckduckgo.com/ip3/tsb-demo.cloudshsm.com.ico",
     "slug": "transaction-security-broker-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 722,
     "timeDay": 743,
@@ -72,6 +72,7 @@
     "timeMonth": 641,
     "timeYear": 722,
     "dailyMinutesDown": {
+      "2022-12-20": 3,
       "2022-12-12": 19,
       "2022-09-15": 62
     }
@@ -81,10 +82,10 @@
     "url": "https://primusdev.cloudshsm.com/v1/licenseInfo",
     "icon": "https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png",
     "slug": "transaction-security-broker-developer-program",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 834,
@@ -93,6 +94,7 @@
     "timeMonth": 702,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2022-12-20": 1,
       "2022-05-03": 59
     }
   },
@@ -143,9 +145,9 @@
     "url": "$SECRET_DE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-europe-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -155,6 +157,7 @@
     "timeMonth": 2723,
     "timeYear": 2377,
     "dailyMinutesDown": {
+      "2022-12-20": 0,
       "2022-11-14": 90
     }
   },
@@ -163,18 +166,19 @@
     "url": "$SECRET_US_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-america-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2343,
-    "timeDay": 2404,
-    "timeWeek": 2410,
-    "timeMonth": 2339,
-    "timeYear": 2343,
+    "time": 2334,
+    "timeDay": 1308,
+    "timeWeek": 2166,
+    "timeMonth": 2277,
+    "timeYear": 2334,
     "dailyMinutesDown": {
+      "2022-12-20": 0,
       "2022-07-18": 27
     }
   },
@@ -183,36 +187,39 @@
     "url": "$SECRET_SG_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-asia-pacific",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3740,
-    "timeDay": 3911,
-    "timeWeek": 3936,
-    "timeMonth": 3772,
-    "timeYear": 3740,
-    "dailyMinutesDown": {}
+    "time": 3723,
+    "timeDay": 2101,
+    "timeWeek": 3531,
+    "timeMonth": 3669,
+    "timeYear": 3723,
+    "dailyMinutesDown": {
+      "2022-12-20": 0
+    }
   },
   {
     "name": "CloudsHSM - Switzerland (Cluster)",
     "url": "$SECRET_CH_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clouds-hsm-switzerland-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1277,
-    "timeDay": 1429,
-    "timeWeek": 1272,
-    "timeMonth": 1263,
-    "timeYear": 1277,
+    "time": 1269,
+    "timeDay": 798,
+    "timeWeek": 1149,
+    "timeMonth": 1231,
+    "timeYear": 1269,
     "dailyMinutesDown": {
+      "2022-12-20": 0,
       "2022-08-30": 35
     }
   }
