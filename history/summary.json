@@ -60,11 +60,11 @@
     "url": "https://tsb-demo.cloudshsm.com/v1/licenseInfo",
     "icon": "https://icons.duckduckgo.com/ip3/tsb-demo.cloudshsm.com.ico",
     "slug": "transaction-security-broker-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 750,
     "timeDay": 2300,
@@ -72,7 +72,7 @@
     "timeMonth": 828,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2022-12-21": 10,
+      "2022-12-21": 2,
       "2022-12-12": 19,
       "2022-09-15": 62
     }
@@ -82,11 +82,11 @@
     "url": "https://primusdev.cloudshsm.com/v1/licenseInfo",
     "icon": "https://github.com/SecurosysFernandez/clouds-uptime/blob/master/assets/Transaction_Security_Broker.png",
     "slug": "transaction-security-broker-developer-program",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 834,
     "timeDay": 804,
@@ -94,7 +94,7 @@
     "timeMonth": 703,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2022-12-21": 8,
+      "2022-12-21": 0,
       "2022-05-03": 59
     }
   },
@@ -147,9 +147,9 @@
     "slug": "clouds-hsm-europe-cluster",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2375,
     "timeDay": 2225,
@@ -157,7 +157,6 @@
     "timeMonth": 2682,
     "timeYear": 2375,
     "dailyMinutesDown": {
-      "2022-12-21": 8,
       "2022-11-14": 90
     }
   },
@@ -168,9 +167,9 @@
     "slug": "clouds-hsm-america-cluster",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2316,
     "timeDay": 1447,
@@ -178,7 +177,6 @@
     "timeMonth": 2177,
     "timeYear": 2316,
     "dailyMinutesDown": {
-      "2022-12-21": 8,
       "2022-07-18": 27
     }
   },
@@ -189,18 +187,16 @@
     "slug": "clouds-hsm-asia-pacific",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3692,
     "timeDay": 2337,
     "timeWeek": 3139,
     "timeMonth": 3513,
     "timeYear": 3692,
-    "dailyMinutesDown": {
-      "2022-12-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CloudsHSM - Switzerland (Cluster)",
@@ -209,9 +205,9 @@
     "slug": "clouds-hsm-switzerland-cluster",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1254,
     "timeDay": 813,
@@ -219,7 +215,6 @@
     "timeMonth": 1180,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2022-12-21": 8,
       "2022-08-30": 35
     }
   }
