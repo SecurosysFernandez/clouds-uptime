@@ -22,19 +22,19 @@
     "url": "$SECRET_DKE_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "double-key-encryption-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 883,
-    "timeWeek": 689,
-    "timeMonth": 629,
-    "timeYear": 607,
+    "time": 613,
+    "timeDay": 1127,
+    "timeWeek": 792,
+    "timeMonth": 659,
+    "timeYear": 613,
     "dailyMinutesDown": {
-      "2023-01-19": 0
+      "2023-01-19": 7
     }
   },
   {
