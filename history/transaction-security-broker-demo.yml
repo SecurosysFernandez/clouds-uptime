@@ -1,7 +1,7 @@
 url: https://tsb-demo.cloudshsm.com/v1/licenseInfo
-status: down
-code: 503
-responseTime: 645
-lastUpdated: 2023-01-22T02:15:19.988Z
+status: up
+code: 200
+responseTime: 655
+lastUpdated: 2023-01-22T21:38:56.811Z
 startTime: Fri Jun 10 2022 12:52:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
