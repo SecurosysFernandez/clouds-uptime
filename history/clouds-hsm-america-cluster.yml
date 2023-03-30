@@ -1,7 +1,7 @@
 url: $SECRET_US_API
-status: down
-code: 500
-responseTime: 1484
-lastUpdated: 2023-03-30T11:19:05.202Z
+status: up
+code: 200
+responseTime: 3330
+lastUpdated: 2023-03-30T13:41:16.817Z
 startTime: Tue Jun 07 2022 19:19:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
